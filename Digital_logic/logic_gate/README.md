@@ -15,9 +15,16 @@ This project contains RTL implementations of fundamental digital logic gates usi
 ## Verification Flow
 
 RTL Design
+
     ↓
+    
 Testbench
+
     ↓
+    
 Simulation
+
     ↓
+    
 Waveform Analysis
+
